@@ -1,0 +1,6 @@
+[project]
+name = "vawatch"
+version = "0.1.0"
+description = "GNU watch compatible Telegram monitor"
+requires-python = ">=3.10"
+dependencies = ["requests"]
