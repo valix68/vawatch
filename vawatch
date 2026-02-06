@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from vawatch_lib.cli import main
+from vawatch_core.cli import main
 
 if __name__ == "__main__":
     main()

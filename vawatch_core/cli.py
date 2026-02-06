@@ -1,6 +1,6 @@
 import argparse
-from vawatch_lib.runner import run
-from vawatch_lib.telegram import send
+from vawatch_core.runner import run
+from vawatch_core.telegram import send
 
 def main():
     p = argparse.ArgumentParser(prog="vawatch")
